@@ -1,12 +1,12 @@
 {
-    "version":  "20261109.2231",
+    "version":  "20261109.2326",
     "server_ip":  "200.125.81.32",
     "aviso":  "Bienvenido a Mt2Arg!",
     "files":  [
                   {
                       "path":  "Metin2Release.exe",
-                      "sha1":  "a63463fe07c02edc0308f97704cefbf96a9778d2",
-                      "size":  7475200,
+                      "sha1":  "805c8a7d979b3498df0fd25e9d5bbf116642b42c",
+                      "size":  7216128,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/Metin2Release.exe"
                   },
                   {
