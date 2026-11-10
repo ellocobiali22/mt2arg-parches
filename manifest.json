@@ -1,0 +1,79 @@
+{
+    "version":  "20261109.2231",
+    "server_ip":  "200.125.81.32",
+    "aviso":  "Bienvenido a Mt2Arg!",
+    "files":  [
+                  {
+                      "path":  "Metin2Release.exe",
+                      "sha1":  "a63463fe07c02edc0308f97704cefbf96a9778d2",
+                      "size":  7475200,
+                      "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/Metin2Release.exe"
+                  },
+                  {
+                      "path":  "launcher_logo.png",
+                      "sha1":  "5e68ebb5f3be1002b7e28c48532dd79d8965bb2e",
+                      "size":  107370,
+                      "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/launcher_logo.png"
+                  },
+                  {
+                      "path":  "pack/root",
+                      "sha1":  "4e459e0bf1c82db798f972fc01cd097aeb5bdc8d",
+                      "size":  10403499,
+                      "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__root"
+                  },
+                  {
+                      "path":  "pack/locale",
+                      "sha1":  "9acb9974ed9d5a4dce2ed2fdb2758eb95c7c79f4",
+                      "size":  13640629,
+                      "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__locale"
+                  },
+                  {
+                      "path":  "pack/icon",
+                      "sha1":  "450ca12e30017d88fd0d7570abcf2e934537d3b1",
+                      "size":  27585789,
+                      "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__icon"
+                  },
+                  {
+                      "path":  "pack/others",
+                      "sha1":  "ff58a53768679261d83d389b202139e7025ffb80",
+                      "size":  178437498,
+                      "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__others"
+                  },
+                  {
+                      "path":  "pack/season",
+                      "sha1":  "bc825dfb1a0692705f2757b7e1a94380a3014dfa",
+                      "size":  47169026,
+                      "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__season"
+                  },
+                  {
+                      "path":  "pack/effect",
+                      "sha1":  "186e789ec2f21bdb71e4ea616f5d43f3b2ee0572",
+                      "size":  37547247,
+                      "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__effect"
+                  },
+                  {
+                      "path":  "pack/item",
+                      "sha1":  "267f505ec10c5f70bf226e3f2a46feb90234a1d9",
+                      "size":  39160884,
+                      "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__item"
+                  },
+                  {
+                      "path":  "pack/guild",
+                      "sha1":  "7b7a36cc8e5910e015cc74319297a77034e2f3b5",
+                      "size":  6496059,
+                      "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__guild"
+                  },
+                  {
+                      "path":  "pack/property",
+                      "sha1":  "1a91d5bb8290d5fb241528282338af04877e5e7c",
+                      "size":  764739,
+                      "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__property"
+                  },
+                  {
+                      "path":  "pack/textureset",
+                      "sha1":  "115ba095af3ba5e8797d7bcfce6265b8efc472a2",
+                      "size":  103982,
+                      "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__textureset"
+                  }
+              ]
+}
