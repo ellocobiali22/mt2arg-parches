@@ -1,12 +1,12 @@
 {
-    "version":  "20261118.0914",
+    "version":  "20261118.1948",
     "server_ip":  "200.125.81.32",
     "aviso":  "Bienvenido a Mt2Arg!",
     "files":  [
                   {
                       "path":  "Metin2Release.exe",
-                      "sha1":  "d954b2ee4831dc37aba2b1147dd886511c6efa8e",
-                      "size":  7215616,
+                      "sha1":  "34902fd0e8df07b929c6cfcc0d4497ee7776da0c",
+                      "size":  7217152,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/Metin2Release.exe"
                   },
                   {
@@ -17,14 +17,14 @@
                   },
                   {
                       "path":  "pack/root",
-                      "sha1":  "03d95e6c5d8a2951947b239f61fadd8144d6ed5f",
-                      "size":  10420147,
+                      "sha1":  "3f0a01b46d0ae5cde86b27bff993d0cd27fce197",
+                      "size":  10421064,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__root"
                   },
                   {
                       "path":  "pack/locale",
-                      "sha1":  "196c28fbd287d13f3edbb2c55148ceff0441baa5",
-                      "size":  13015994,
+                      "sha1":  "274bd09dec7275bab52082bc32e4977685124837",
+                      "size":  13015933,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__locale"
                   },
                   {
