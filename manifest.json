@@ -1,5 +1,5 @@
 {
-    "version":  "20261119.1345",
+    "version":  "20261119.1348",
     "server_ip":  "200.125.81.32",
     "aviso":  "Bienvenido a Mt2Arg!",
     "files":  [
@@ -77,14 +77,14 @@
                   },
                   {
                       "path":  "pack/pc",
-                      "sha1":  "cdd0fb92af9cd3ffc5818ee28d92a5086b5b7d67",
-                      "size":  483785860,
+                      "sha1":  "35fa203f262bda4384203b25482997495f95a680",
+                      "size":  483785452,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__pc"
                   },
                   {
                       "path":  "pack/pc2",
-                      "sha1":  "00da1c16182e1446b7e17cab33824c3f7435b3c8",
-                      "size":  472711117,
+                      "sha1":  "55c80ff7c1577d0f604be26152dcc3d5565dad11",
+                      "size":  472710709,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__pc2"
                   }
               ]
