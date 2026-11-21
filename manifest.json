@@ -1,5 +1,5 @@
 {
-    "version":  "20261120.1817",
+    "version":  "20261120.2356",
     "server_ip":  "200.125.81.32",
     "aviso":  "Bienvenido a Mt2Arg!",
     "files":  [
@@ -23,14 +23,14 @@
                   },
                   {
                       "path":  "pack/locale",
-                      "sha1":  "f83d09ac9bd088be9d0dfd262d6bae76775251f6",
-                      "size":  13018769,
+                      "sha1":  "9307cf9971b5ab0c49964ba321f38546c554650b",
+                      "size":  13020980,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__locale"
                   },
                   {
                       "path":  "pack/icon",
-                      "sha1":  "b31cf59e28505e5e57b7136f0085c90b4006b1dd",
-                      "size":  27585789,
+                      "sha1":  "f139b3b8efb8a3919a3bea905468a8e69c5a682c",
+                      "size":  27586443,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__icon"
                   },
                   {
@@ -53,8 +53,8 @@
                   },
                   {
                       "path":  "pack/item",
-                      "sha1":  "267f505ec10c5f70bf226e3f2a46feb90234a1d9",
-                      "size":  39160884,
+                      "sha1":  "1c64eb5d192d05a8aa2104ca40bf5594c46bfd58",
+                      "size":  39607720,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__item"
                   },
                   {
