@@ -1,5 +1,5 @@
 {
-    "version":  "20261121.0134",
+    "version":  "20261123.2242",
     "server_ip":  "200.125.81.32",
     "aviso":  "Bienvenido a Mt2Arg!",
     "files":  [
@@ -23,8 +23,8 @@
                   },
                   {
                       "path":  "pack/locale",
-                      "sha1":  "4910f65dbb25f1fa16af7e398b69c57fd24e706c",
-                      "size":  13021253,
+                      "sha1":  "2f7e52f5414252c248fe75d262093ee65d39de0f",
+                      "size":  13020928,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__locale"
                   },
                   {
