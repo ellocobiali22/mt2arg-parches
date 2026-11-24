@@ -1,5 +1,5 @@
 {
-    "version":  "20261124.0104",
+    "version":  "20261124.0120",
     "server_ip":  "200.125.81.32",
     "aviso":  "Bienvenido a Mt2Arg!",
     "files":  [
@@ -17,8 +17,8 @@
                   },
                   {
                       "path":  "pack/root",
-                      "sha1":  "dc1ad10ccf6ec1a92acd9d504192198143672d89",
-                      "size":  10430283,
+                      "sha1":  "e5c5c3c3f490dc802b44243bc33069b9f0a78c55",
+                      "size":  10430291,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__root"
                   },
                   {
