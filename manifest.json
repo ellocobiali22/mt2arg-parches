@@ -1,12 +1,12 @@
 {
-    "version":  "20261124.0225",
+    "version":  "20261126.0152",
     "server_ip":  "200.125.81.32",
     "aviso":  "Bienvenido a Mt2Arg!",
     "files":  [
                   {
                       "path":  "Metin2Release.exe",
-                      "sha1":  "71c90acbf2e8306cdfdbfa333de1dca11ca8a31b",
-                      "size":  7217664,
+                      "sha1":  "767cd6246952f7e51256471a5a4b6ceb12c87199",
+                      "size":  7219200,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/Metin2Release.exe"
                   },
                   {
@@ -17,20 +17,20 @@
                   },
                   {
                       "path":  "pack/root",
-                      "sha1":  "167ee42943f5792a9ab6edb5f06c3a96a37b1407",
-                      "size":  10434420,
+                      "sha1":  "53a0083c857225b00b1993a92098d2e57c164c76",
+                      "size":  10437104,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__root"
                   },
                   {
                       "path":  "pack/locale",
-                      "sha1":  "8a126436751d3a8455e3ee261f6c9b11af109c2e",
-                      "size":  13020845,
+                      "sha1":  "6c3b97dcd4125c6a6d1c2273e4f97676d1bf30fc",
+                      "size":  12827996,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__locale"
                   },
                   {
                       "path":  "pack/icon",
-                      "sha1":  "f139b3b8efb8a3919a3bea905468a8e69c5a682c",
-                      "size":  27586443,
+                      "sha1":  "965923d42064ec621863c1fba0979c3aa42f62f9",
+                      "size":  27592889,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__icon"
                   },
                   {
@@ -47,8 +47,8 @@
                   },
                   {
                       "path":  "pack/effect",
-                      "sha1":  "8aede6948e403505e128e259777080ed60f9de5a",
-                      "size":  37547027,
+                      "sha1":  "0316d6a69a42ac910f6eec2392298b54993f33d6",
+                      "size":  37583608,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__effect"
                   },
                   {
