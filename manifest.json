@@ -1,5 +1,5 @@
 {
-    "version":  "20261126.0152",
+    "version":  "20261126.0202",
     "server_ip":  "200.125.81.32",
     "aviso":  "Bienvenido a Mt2Arg!",
     "files":  [
@@ -74,6 +74,12 @@
                       "sha1":  "115ba095af3ba5e8797d7bcfce6265b8efc472a2",
                       "size":  103982,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__textureset"
+                  },
+                  {
+                      "path":  "pack/npc_mount",
+                      "sha1":  "61d66251fd96697240f5f9a5161478d0d56cd806",
+                      "size":  29707099,
+                      "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__npc_mount"
                   },
                   {
                       "path":  "pack/pc",
