@@ -1,5 +1,5 @@
 {
-    "version":  "20261126.2326",
+    "version":  "20261127.0505",
     "server_ip":  "200.125.81.32",
     "aviso":  "Bienvenido a Mt2Arg!",
     "files":  [
@@ -17,14 +17,14 @@
                   },
                   {
                       "path":  "pack/root",
-                      "sha1":  "196845ce6eb608378d1155c475231cdb5e403568",
-                      "size":  10437302,
+                      "sha1":  "644f17a50145f6998f3dce9ccbde65a27a1cecd6",
+                      "size":  10437624,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__root"
                   },
                   {
                       "path":  "pack/locale",
-                      "sha1":  "4915da166fef6bb14e5efb4abcd9de5ce0b9c619",
-                      "size":  12829421,
+                      "sha1":  "54c33e32326e0a19cdaed32d31c116c304aa3c9a",
+                      "size":  12830358,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__locale"
                   },
                   {
@@ -83,14 +83,14 @@
                   },
                   {
                       "path":  "pack/pc",
-                      "sha1":  "743a9b39e74b884d81112a0b1d69ae81f5e417fd",
-                      "size":  483785406,
+                      "sha1":  "e22194bb7d2f123891d8ca14564de6348367869b",
+                      "size":  483785178,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__pc"
                   },
                   {
                       "path":  "pack/pc2",
-                      "sha1":  "55c80ff7c1577d0f604be26152dcc3d5565dad11",
-                      "size":  472710709,
+                      "sha1":  "7c0a669d3d754c5bbf3f544a77b795a449000da9",
+                      "size":  472710481,
                       "url":  "https://github.com/ellocobiali22/mt2arg-parches/releases/download/parches/pack__pc2"
                   }
               ]
